@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Chitharanjan
+# Hi there, I'm Chitharanjan
 
 💻 **Associate DevOps Engineer** | AWS | Kubernetes | Ansible | Docker  
 🎯 Passionate about automating workflows, cloud architecture, and teaching AWS & DevOps.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -23,13 +23,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chitharanjan-devops&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitharanjan-devops&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOUR-LINK)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
